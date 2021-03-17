@@ -1,3 +1,3 @@
 local ESP = {
-    "ji"
+    hi = "j"
 }

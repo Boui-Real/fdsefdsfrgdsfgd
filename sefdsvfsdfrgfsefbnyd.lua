@@ -1,3 +1,3 @@
-local ESP = {
-    'f'
+local hwidwhitelist = {
+    'f';
 }

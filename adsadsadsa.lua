@@ -1,1 +1,2 @@
-local whitelist = {"f"}
+local  whitelist = {"f"}
+return whitelist

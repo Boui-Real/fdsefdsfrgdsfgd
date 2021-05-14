@@ -1,3 +1,8 @@
+--[[
+This is a HWID database of whitelisted nanohub users
+Nothing more
+]]
+
 local  whitelist = {
   '84472930-AD75-48B8-9F8A-F046C11BCE3D';
   'DED23805-88C2-4416-A117-A1B336801533';
@@ -6,5 +11,6 @@ local  whitelist = {
   'B94827E8-1ACC-447A-8C16-A403C3465FEC';
   '83A4F8F6-D314-4604-8AE0-9308A58E6167';
   'B049C183-A14F-4F25-AF2A-49B1127962DD';
+  'D5F58DE0-6D32-43D3-8007-BD82D9D9FD46';
 }
 return whitelist

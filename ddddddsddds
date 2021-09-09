@@ -3,7 +3,7 @@ This is a HWID database of whitelisted nanohub users
 Nothing more
 ]]
 
-local  whitelist = {
+local whitelist = {
   '4DDC70F1-74A2-48D2-B645-FC72A77654E2';
   '84472930-AD75-48B8-9F8A-F046C11BCE3D';
   'DED23805-88C2-4416-A117-A1B336801533';
